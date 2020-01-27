@@ -14,7 +14,7 @@ KALI LINUX [ KDE ] , PARROT OS , ARCO , PENTOO , ZORIN
 2. locate your file [ OMBS ]
 3. cd OMBS
 4. ls
-5. java Online_Mobile_Banking_System.java
+5. java OMBS_CYBER_SEC.java
 ------------------------------------------------------
 
 KALI LIGHT 
@@ -22,7 +22,7 @@ KALI LIGHT
 1. First install kali linux then locate your file
 2. cd OMBS
 3. ls
-4. java Online_Mobile_Banking_System.java
+4. java OMBS_CYBER_SEC.java
 
 ------------------------------------------------------
 
