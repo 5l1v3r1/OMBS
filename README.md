@@ -4,9 +4,9 @@ Online Mobile Banking System ( a simple java program ) by ASHISH NARYAN [ CYBER 
 This program is made by Ashish Naryan [ the Author ]
 this a sample of a Online Mobile Banking System in a form of JAVA ORACLE.
 
-======================================================
+
 RUN PROCESS :-
-======================================================
+
 
 KALI LINUX [ KDE ] , PARROT OS , ARCO , PENTOO , ZORIN 
 ------------------------------------------------------
